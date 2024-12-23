@@ -1,0 +1,19 @@
+{
+  "name": "animix-bot",
+  "author": "@nongdancryptos",
+  "description": "animix tự động hoàn thành nhiệm vụ, gacha thú cưng tự động, tự động hợp nhất",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "chalk": "^5.4.1",
+    "ethers": "^6.13.4",
+    "https-proxy-agent": "^7.0.6",
+    "node-fetch": "^3.3.2"
+  }
+}
